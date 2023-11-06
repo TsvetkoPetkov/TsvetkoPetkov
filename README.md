@@ -3,7 +3,7 @@ Hey there 👋, I am Tsvetko Petkov 🧑 Welcome to my GitHub profile!<br><br>- 
 
 
 ## 🌐 Connect with me:
-[<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/facebook/facebook-plain.svg" alt="facebook" width="26px">](https://www.facebook.com/dian.kalaidzyhiev/)
+[<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/facebook/facebook-plain.svg" alt="facebook" width="26px">]([https://www.facebook.com/dian.kalaidzyhiev/](https://www.facebook.com/profile.php?id=100010408150793))
 
 
 # 💻 Languages and tools I know:
