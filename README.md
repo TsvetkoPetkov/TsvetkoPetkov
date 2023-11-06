@@ -3,7 +3,8 @@ Hey there 👋, I am Tsvetko Petkov 🧑 Welcome to my GitHub profile!<br><br>- 
 
 
 ## 🌐 Connect with me:
-[<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/facebook/facebook-plain.svg" alt="facebook" width="26px">]([https://www.facebook.com/dian.kalaidzyhiev/](https://www.facebook.com/profile.php?id=100010408150793))
+[<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/facebook/facebook-plain.svg" alt="facebook" width="26px">](https://www.facebook.com/dian.kalaidzyhiev/)
+
 
 # 💻 Languages and tools I know:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
