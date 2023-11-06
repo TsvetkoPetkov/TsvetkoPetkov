@@ -14,11 +14,12 @@ Hey there 👋, I am Tsvetko Petkov 🧑 Welcome to my GitHub profile!<br><br>- 
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="padding-right:10px;" />
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 <img align="left" alt="PyCharm" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/visualstudio/visualstudio-plain.svg" />
+
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TsvetkoPetkov&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
