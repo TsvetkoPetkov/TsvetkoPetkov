@@ -1,5 +1,5 @@
 # ✌ About Me:
-Hey there 👋, I am Tsvetko Petkov 🧑 Welcome to my GitHub profile!<br><br>- 👨‍🎓 I'm majoring in Computer and Software Engineering at the Technical University of Sofia<br>- 💻I successfully completed the full Python curriculum and PostgreSQL course for databases of SoftUni.<br>- ✅ Math concepts for developers course certification <br>- ✅ Data Science course certification <br>- ✅ Machine learning course certification <br>- ⭐ Self made projects in Machine learning and Data Science <br>-  💡 Fun fact: I love sports 🏊‍♂️ and Math 📉<br><br>
+Hey there 👋, I am Tsvetko Petkov 🧑 Welcome to my GitHub profile!<br><br>- 👨‍🎓 I'm majoring in Computer and Software Engineering at the Technical University of Sofia<br>- 💻I successfully completed the full Python curriculum and PostgreSQL course for databases of SoftUni.<br>- ✅ Math concepts for developers course certification <br>- ✅ Data Science course certification <br>- ✅ Machine learning course certification <br> - 🔜 Deep learning course (in process)- ⭐ Self made projects in Machine learning and Data Science <br>-  💡 Fun fact: I love sports 🏊‍♂️ and Math 📉<br><br>
 
 
 ## 🌐 Connect with me:
