@@ -11,6 +11,7 @@ Hey there 👋, I am Tsvetko Petkov 🧑 Welcome to my GitHub profile!<br><br>- 
 <img align="left" alt="Anaconda" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" style="padding-right:10px;" /> 
 <img align="left" alt="Jupyter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" /> 
 <img align="left" alt="Pandas" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" style="padding-right:10px;" /> 
+<img align="left" alt="Numpy" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" style="padding-right:10px;" /> 
 <img align="left" alt="Matplotlib" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" style="padding-right:10px;" /> 
 <img align="left" alt="Scikitlearn" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" style="padding-right:10px;" /> 
 <img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
